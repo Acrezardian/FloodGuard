@@ -17,8 +17,8 @@
 #define BUZZER_PIN D4
 
 // Isikan sesuai pada Firebase
-#define FIREBASE_HOST "datasensor-16f19-default-rtdb.firebaseio.com/" // MASUKKAN URL HOST DISINI tanpa https
-#define FIREBASE_AUTH "XRiBPZRxqaAcBeMiKsip2RG8joTOSFlO5lD38Z42" // MASUKKAN KODE SECRET DISINI
+#define FIREBASE_HOST "" // MASUKKAN URL HOST DISINI tanpa https
+#define FIREBASE_AUTH "" // MASUKKAN KODE SECRET DISINI
 
 // Nama Wifi
 #define WIFI_SSID "E5573-MIFI-236188"
